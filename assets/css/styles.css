@@ -4,6 +4,9 @@
   color: #fff;
   font-family: 'Titillium Web', sans-serif;
 }
+.navbar-toggler.custom-toggler{
+  border-color: rgb(23, 163, 184);
+}
 
 .fondo-texto, .card-body {
   background-color: #000;
@@ -27,4 +30,6 @@
   font-size: 20px;
 }
 
-
+.col-12{
+  color:rgb(23, 163, 184);
+}

@@ -1,15 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
   color: #fff;
   font-family: 'Titillium Web', sans-serif;
 }
+
 .navbar-toggler.custom-toggler{
   border-color: rgb(23, 163, 184);
 }
 
-.fondo-texto, .card-body {
+.fondo-texto, .card-body{
   background-color: #000;
+}
+
+.color-tarjeta {
+  background-color: #000!important;
 }
 
 .secciones {
